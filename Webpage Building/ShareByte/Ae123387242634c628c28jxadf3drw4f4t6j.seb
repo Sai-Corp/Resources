@@ -1,0 +1,8 @@
+<h6>Sai Corporation Resources</h6>
+<!--This is a Sharing link ID file. Systems recognize this as a ShareByte file.-->
+<r>ShareByte Link</r>
+load dtb file /sharebyte item here
+Screen Bhayya Share /pub/load/cdr.txt
+repeat 4 times{
+Download "Type Your File Here"
+Load 100 Times}
